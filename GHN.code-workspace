@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../content birthday"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "GHN"
+	}
+}
