@@ -30,15 +30,13 @@ body, html {
   display: grid;
   align-items: center;
   justify-content: center;
-
-  & #countdown {
-    font-size: 3rem;
-    font-weight: 900;
-    font-family: Roboto, system-ui, Oxygen;
-  }
 }
 
-
+#countdown {
+  font-size: 3rem;
+  font-weight: 900;
+  font-family: Roboto, system-ui, Oxygen;
+}
 
 h1 {
   font-size: 3rem;
